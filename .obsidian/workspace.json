@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "da2a9029f1d07620",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e156cd14f49b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d539789b5cd92de6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccfacb82d3a8df67",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b4e178e6976d837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c826c9fefa194851",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "8c6d996dfb3f2144",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c976014fc268fe33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "713e8188fbce658e",
+    "type": "split",
+    "children": [
+      {
+        "id": "821a114bf2e5c828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de2b80b37bae6fe3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02. instalacion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 02. instalacion"
+            }
+          },
+          {
+            "id": "41f406365235cd9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02. instalacion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 02. instalacion"
+            }
+          },
+          {
+            "id": "f1c320cf9d291144",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "db1ab4bd1d7fc023",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02. instalacion.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 02. instalacion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d539789b5cd92de6",
+  "lastOpenFiles": [
+    "31. generar-APK.md",
+    "30. share.md",
+    "999. notas a tomar despues.md",
+    "29. image-picker.md",
+    "08. image.md",
+    "28. tabs.md",
+    "20. expo-vector-icons.md",
+    "27. navegacion-nativa.md",
+    "26. rutas-dinamicas.md",
+    "25. enrutado.md",
+    "21. tailwind.md",
+    "03. creacion-proyecto-con-expo.md",
+    "07. estilos.md",
+    "24. asyncstorage.md",
+    "23. splash-screen.md",
+    "22. activity-indicator.md",
+    "19. renderizar-svg.md",
+    "18. status-bar.md",
+    "17. react-native-safe-area-context.md",
+    "13. flat-list.md",
+    "14. dimensions.md",
+    "15. constantes-de-expo.md",
+    "16. platform.md",
+    "12. scroll-view.md",
+    "11. text-input.md",
+    "02. cli-vs-expo.md"
+  ]
+}
